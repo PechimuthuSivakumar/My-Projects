@@ -1,0 +1,11 @@
+#local
+# REACT_APP_API=http://localhost:9000/api/v1/admin/
+# REACT_APP_BASE=http://localhost:9000/
+#http://65.108.248.67:9001
+#http://65.109.227.234:9000/
+#live
+#REACT_APP_API=http://65.108.248.67:9001/api/v1/admin/
+#REACT_APP_BASE=http://65.108.248.67:9001/
+#live
+REACT_APP_API=https://api.rxdx.co.in/api/v1/admin/
+REACT_APP_BASE=https://api.rxdx.co.in/
