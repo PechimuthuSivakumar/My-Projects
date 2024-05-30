@@ -19,4 +19,4 @@ create db project_db and then import that file in project_dd
 
 and then run project on localhost
 
-added vendor zip in backend folder just download and extract it
+added vendor.zip file in backend folder just download and extract it in backend
