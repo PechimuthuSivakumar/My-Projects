@@ -18,3 +18,5 @@ Download project file into local and open schema, that file have database (proje
 create db project_db and then import that file in project_dd
 
 and then run project on localhost
+
+added vendor zip in backend folder just download and extract it
